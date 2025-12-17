@@ -91,4 +91,4 @@ if st.button("Scan Buckets"):
         """)
 
 st.markdown("---")
-st.caption("Built by Frank Garcia · Cloud Security Demo Project")
+st.caption("Built by Frank Garcia · Cloud Security Project")
