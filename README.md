@@ -146,5 +146,5 @@ Preventive control mindset
 
 
 
-8. Ultimately we end up with this User Interface. With 3 functions that call ontp
+8. Ultimately we end up with this User Interface. 
 
