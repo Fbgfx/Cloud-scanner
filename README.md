@@ -1,5 +1,9 @@
 📁 Project 1: Cloud Security Scanner (AWS)
+
+
 🔍 Overview
+
+
 The Cloud Security Scanner is a Python-based tool designed to assess AWS environments for common security misconfigurations and governance gaps. The project focuses on identifying preventive control failures that increase the risk of account compromise, data exposure, and compliance violations.
 This project reflects real-world cloud security assessments performed by cloud governance and security engineering teams.
 
